@@ -11,7 +11,7 @@ import SwiftUI
 struct IIT_Seeing_Blue_DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SeeingBlueView()
         }
     }
 }
